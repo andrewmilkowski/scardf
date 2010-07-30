@@ -3,3 +3,21 @@ scardf fork from code.google.com/p/scardf and port to scala 2.8.0 (with maven an
 as per original description of the project, scardf is:
 "
 Scardf is an API in Scala providing a DSL for writing, traversing and querying RDF graphs. Implemented as a façade to Jena, an RDF programming framework for Java."
+
+---------------------------------------------------------------------------------------------------
+
+NOTE:
+
+Sbt pulls incorrect jena and ira jar's from repo1.maven.org repository (but only jena 2.6.3, 2.6.2 version resolves fine)
+
+and all this despite explicit dependency directive:) 
+
+sbt dependency
+
+lazy val jena = "com.hp.hpl.jena" % "jena" % JENA_VERSION % "compile->default"
+
+sbt stack trace:
+
+[info] 	[SUCCESSFUL ] com.hp.hpl.jena#arq;2.8.4!arq.jar (2747ms)
+[info] downloading http://repo1.maven.org/maven2/com/hp/hpl/jena/jena/2.6.3/jena-2.6.3-test-sources.jar ...
+
