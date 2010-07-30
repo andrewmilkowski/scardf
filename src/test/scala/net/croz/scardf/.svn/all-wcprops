@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/112/trunk/src/test/scala/net/croz/scardf
+END
+NoVarSpec.scala
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/60/trunk/src/test/scala/net/croz/scardf/NoVarSpec.scala
+END
+ScardfSpecs.scala
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/112/trunk/src/test/scala/net/croz/scardf/ScardfSpecs.scala
+END
+QuerySpecs.scala
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112/trunk/src/test/scala/net/croz/scardf/QuerySpecs.scala
+END
+LitSpec.scala
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/60/trunk/src/test/scala/net/croz/scardf/LitSpec.scala
+END
+example_data.scala
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/112/trunk/src/test/scala/net/croz/scardf/example_data.scala
+END
+PropPathSpec.scala
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/60/trunk/src/test/scala/net/croz/scardf/PropPathSpec.scala
+END
+LocateSpanQuerySpec.scala
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/60/trunk/src/test/scala/net/croz/scardf/LocateSpanQuerySpec.scala
+END

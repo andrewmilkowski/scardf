@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/112/trunk/src/main/scala/org/scardf/jena
+END
+jena-query.scala
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112/trunk/src/main/scala/org/scardf/jena/jena-query.scala
+END
+jena-rdflist.scala
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/102/trunk/src/main/scala/org/scardf/jena/jena-rdflist.scala
+END
+jena-graph.scala
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112/trunk/src/main/scala/org/scardf/jena/jena-graph.scala
+END
